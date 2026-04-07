@@ -1,0 +1,11 @@
+Plain text
+pandas
+scikit-learn
+streamlit
+fastapi
+uvicorn
+joblib
+pydantic
+shap
+sqlalchemy
+requests
